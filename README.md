@@ -10,4 +10,4 @@ The player cannot directly control the ball, but must rather tilt the board to m
 Tilting the board is meant to be done with a real object (such as seen in the board.jpg) held in front of the webcam, but using the mouse was an alternative in earlier versions of the project. The camera will then detect the board and mimic its movements into the game.
 
 ### Launch the game
-Getting [Processing](https://processing.org/), a webcam and a flat single-color square surface are necessary. Run from within Processing. The default parameters currently in use require the surface to be green (as seen in the board.jpg), but this could be tweaked to fit any object from your home such as a book.
+Getting [Processing](https://processing.org/), a webcam and a flat single-color square surface are necessary. Run from within Processing. The default parameters currently in use require the surface to be green (as seen in the board.jpg), but this could be tweaked to fit any object from your home such as a book. 
